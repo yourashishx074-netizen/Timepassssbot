@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+py-tgcalls==2.2.8
+yt-dlp
+requests
+psutil
+motor==3.3.2
+pymongo[srv]==4.6.1
+aiohttp==3.9.3
