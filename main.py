@@ -29,7 +29,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 # --- CONFIGURATION ---
 API_ID = int(os.getenv("API_ID", "36055068"))
 API_HASH = os.getenv("API_HASH", "e62c399663de4721efb786f7cfc64022")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8761573212:AAFu4SLVHWYY6ePR0uoZ4zID_78dQVE9wZk")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8761573212:AAGxTjUgeLYvk2pEtG2Na9UOXl2Asl0fSbw")
 OWNER_ID = int(os.getenv("OWNER_ID", "8882297263"))
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://getochammarhuyarr18_db_user:JSuaAzEfIlkVJWMO@cluster0.oakct2r.mongodb.net/?appName=Cluster0")
 LOGGER_ID = int(os.getenv("LOGGER_ID", "-1004423792133"))
